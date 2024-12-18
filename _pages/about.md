@@ -3,7 +3,7 @@ title: "About me"
 layout: single
 classes: wide
 author_profile: true
-permalink: /about/
+canonical_url: "https://dalestahl.github.io"
 ---
 
 I am an environmental historian of the modern Middle East. **My work centers on water**: how water shapes politics and societies, how people seek to harness and use water, and how knowledge about water shapes culture. I am particularly interested in [how nature, culture, and technology meet](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429429699-3/technopolitical-frontier-dale-stahl){:target=”_blank”}, and how historians might profit from different [ways of analyzing causal relationships](https://link.springer.com/article/10.1007/s12685-021-00278-4){:target=”_blank”} in the past.
