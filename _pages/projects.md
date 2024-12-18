@@ -3,7 +3,7 @@ title: "Current projects"
 layout: splash
 permalink: /projects/
 header:
-  overlay_color: "#52BE80"
+  overlay_color: "#2e86c1"
 feature_row1:
   - image_path: /assets/images/Hist_Sci_Fi.jpg
     alt: "diagram of the history of science fiction"
