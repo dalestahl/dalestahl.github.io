@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /
+    url: /index/
   - title: "Book"
     url: /book/
   - title: "Projects"
