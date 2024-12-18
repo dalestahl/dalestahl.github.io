@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dale Stahl"
 description              : "Website for Dale Stahl, environmental historian and associate professor."
-url                      : "https://dalestahl.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://dalestahl.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
 repository               : "dalestahl/dalestahl.github.io"
 teaser                   :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
