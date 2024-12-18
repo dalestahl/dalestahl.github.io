@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Dale Stahl"
-  avatar           : /assets/images/profile.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : assets/images/profile.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |
     Environmental Historian<br>
     Middle East, Water, Energy<br>
