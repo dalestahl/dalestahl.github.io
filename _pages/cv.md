@@ -10,7 +10,6 @@ toc_icon: "key"  # corresponding Font Awesome icon name without the "fa" prefix
 toc_sticky: false   # enables sticky toc
 ---
 
-# Curriculum Vitae
 _Last Updated: 30 August 2024_  
 
 **Department of History**  
