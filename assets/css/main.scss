@@ -5,8 +5,10 @@ search: false
 
 @charset "utf-8";
 
+// Hide site subtitle from masthead but keep it for SEO
+.masthead__inner .site-subtitle {
+  display: none;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-// Hide site subtitle from masthead but keep it for SEO
-.masthead__inner .site-subtitle
-{display: none;}
