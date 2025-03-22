@@ -6,7 +6,7 @@ search: false
 @charset "utf-8";
 
 // Hide site subtitle from masthead but keep it for SEO
-.masthead__inner .site-subtitle {
+.site-title .site-subtitle {
   display: none;
 }
 
