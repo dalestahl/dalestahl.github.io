@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : " "
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title                    : "Dale J. Stahl"
+title_separator          : "|"
+subtitle                 : "Environmental History | Water, Technology, and the Middle East"
 name                     : "Dale Stahl"
 description              : "Environmental historian of the modern Middle East, focusing on water, ecology, and technology."
 url                      : "https://dalestahl.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

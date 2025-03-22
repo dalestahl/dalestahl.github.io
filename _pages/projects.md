@@ -1,7 +1,9 @@
 ---
-title: "Current projects"
+title: "Current Projects"
 layout: splash
 permalink: /projects/
+description: "Explore Dale J. Stahl’s current research on environmental history, infrastructure, and science fiction, connecting Anatolian rivers, fossil fuels, and world-making in Turkey, Colorado, and the Persian Gulf."
+keywords: "Dale J. Stahl, current research, environmental history, science fiction, infrastructure, Turkey, rivers, Anatolia, Mesopotamia, Colorado fracking, fossil fuels, Persian Gulf, history of technology, water and oil politics"
 header:
   overlay_color: "#2e86c1"
 feature_row1:

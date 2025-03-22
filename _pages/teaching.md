@@ -4,6 +4,8 @@ layout: single
 classes: wide
 author_profile: true
 permalink: /teaching/
+description: "Courses taught by Dale Stahl on Middle East history, Islamic studies, environmental history, energy, global history, and historiography at the University of Colorado Denver."
+keywords: "Dale Stahl, teaching, history courses, Middle East history, Islamic studies, environmental history, energy history, global history, historiography, international studies, University of Colorado Denver"
 ---
 
 I teach courses on Middle East and Islamic history; environmental history, including energy history; and methods courses on global history and historiography. In the International Studies program, I teach a foundational course for undergraduates.

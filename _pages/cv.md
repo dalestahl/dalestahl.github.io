@@ -1,8 +1,10 @@
 ---
-title: " "
+title: "Curriculum Vitae"
 layout: single
 author_profile: true
 permalink: /cv/
+description: "Academic CV of Dale J. Stahl, environmental historian of the modern Middle East. Includes education, publications, teaching, talks, and professional service."
+keywords: "Dale J. Stahl, academic CV, environmental history, Middle East history, water politics, Iraq, Syria, Turkey, history of technology, university teaching, Columbia University, University of Colorado Denver, environmental historian"
 toc: true
 toc_icon: "key"  # corresponding Font Awesome icon name without the "fa" prefix
 toc_sticky: false   # enables sticky toc

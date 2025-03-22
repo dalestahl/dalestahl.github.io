@@ -2,6 +2,8 @@
 title: "Two Rivers Entangled"
 layout: splash
 permalink: /book/
+description: "Two Rivers Entangled is the first ecological history of the Tigris-Euphrates River Basin in the twentieth century. It reveals how rivers and societies were reshaped in Iraq, Syria, and Turkey through water, politics, and environmental change."
+keywords: "Two Rivers Entangled, Tigris, Euphrates, ecological history, Middle East environment, Iraqi water politics, Syria dams, Turkey water engineering, Dale J. Stahl, environmental history, Stanford University Press"
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
