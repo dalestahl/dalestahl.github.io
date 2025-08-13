@@ -10,7 +10,11 @@ header:
   overlay_image: /assets/images/Euphrates_reservoir.jpg
   actions:
     - label: "Stanford University Press"
-      url: "https://www.sup.org"
+      url: "https://www.sup.org/books/middle-east-studies/two-rivers-entangled"
+    - label: "Preorder from Amazon"
+      url: "https://a.co/d/iaoyjCo"
+    - label: "Preorder from Bookshop"
+      url: "https://bookshop.org/p/books/two-rivers-entangled-an-ecological-history-of-the-tigris-and-euphrates-in-the-twentieth-century-dale-j-stahl/22380882"
 excerpt: An Ecological History of the Tigris and Euphrates Rivers
 intro:
   - excerpt: "**The first English-language history of the Tigris-Euphrates River Basin in the twentieth century, *Two Rivers Entangled* tells a new story of Iraq, Syria, and Turkey by analyzing the changing interactions between societies and ecologies.**"
