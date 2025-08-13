@@ -119,11 +119,17 @@ author:
     Environmental Historian<br>
     Middle East, Water, Energy<br>
     Associate Professor of History
-  location         : "Univ of Colorado Denver"
+  location         : "Denver, Colorado"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:&#100;&#097;&#108;&#101;&#046;&#115;&#116;&#097;&#104;&#108;&#064;&#117;&#099;&#100;&#101;&#110;&#118;&#101;&#114;&#046;&#101;&#100;&#117;"
+    - label: "University of Colorado Denver"
+      icon: "fas fa-fw fa-university"
+      url: "https://clas.ucdenver.edu/history/dale-j-stahl"
+    - label: "Two Rivers Entangled"
+      icon: "fas fa-fw fa-book"
+      url: "https://a.co/d/6zsZSvJ"
     - label: "ORCID"
       icon: "fa-brands fa-orcid"
       url: "https://orcid.org/0000-0003-2773-6707"
