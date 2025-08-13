@@ -33,20 +33,20 @@ Denver, CO 80204
 
 
 ## Books  
-- Under Contract: **Stahl, Dale J.** *Two Rivers Entangled: An Ecological History of the Tigris-Euphrates River Basin.* Stanford University Press.  
-- **2008**: Hall, K., and Stahl, D. *An Argument for Documenting Casualties: Violence Against Iraqi Civilians 2006.* RAND Corporation.  
+- Forthcoming, Jan 2026: **Stahl, Dale J.** *Two Rivers Entangled: An Ecological History of the Tigris-Euphrates River Basin.* [Stanford University Press](https://www.sup.org/books/middle-east-studies/two-rivers-entangled).  
+- **2008**: Hall, K., and Stahl, D. *An Argument for Documenting Casualties: Violence Against Iraqi Civilians 2006.* [RAND Corporation](https://www.rand.org/pubs/authors/s/stahl_dale.html).  
 - **2008**: Kaye, D. D., Wehrey, F., Grant, A. K., & Stahl, D. *More Freedom, Less Terror?: Liberalization and Political Violence in the Arab World.* RAND Corporation.  
 - **2008**: Oweidat, N., Benard, C., Stahl, D., Kildani, W., & O'Connell, E. *The Kefaya Movement: A Case Study of a Grassroots Reform Initiative.* RAND Corporation.  
 
 
 ## Peer-Reviewed Articles and Chapters  
-- **2021**: Stahl, Dale J. *“The Dam as Catastrophe: Connecting Geological Models to Modern History.”* Water History, 13(1): 137–160.  
-- **2019**: Stahl, Dale J. *“A Technopolitical Frontier: The Keban Dam Project and Southeastern Anatolia.”* In *Transforming Socio-Natures in Turkey: Landscapes, State and Environmental Movements,* eds. Onur Inal and Ethemcan Turhan. Routledge Environmental Humanities.  
+- **2021**: Stahl, Dale J. *“The Dam as Catastrophe: Connecting Geological Models to Modern History.”* [Water History](https://link.springer.com/article/10.1007/s12685-021-00278-4), 13(1): 137–160.  
+- **2019**: Stahl, Dale J. *“A Technopolitical Frontier: The Keban Dam Project and Southeastern Anatolia.”* In *Transforming Socio-Natures in Turkey: Landscapes, State and Environmental Movements,* eds. Onur Inal and Ethemcan Turhan. [Routledge Environmental Humanities](https://www.routledge.com/Transforming-Socio-Natures-in-Turkey-Landscapes-State-and-Environmental-Movements/Inal-Turhan/p/book/9780367785741?srsltid=AfmBOoq7tsJdERo-uUlRmuMVSH--xp7bNLfxrB0enJ8UKLoIvZrRtmnQ).  
 
 
 ## Educational Resources  
-- **2018**: Stahl, Dale J. *An Analysis of Hanna Batatu’s “The Old Social Classes and Revolutionary Movements of Iraq.”* CRC Press, Macat Library.  
-- **2017**: Stahl, Dale J. *An Analysis of Ernest Gellner’s “Nations and Nationalism.”* CRC Press, Macat Library.  
+- **2018**: Stahl, Dale J. *An Analysis of Hanna Batatu’s “The Old Social Classes and Revolutionary Movements of Iraq.”* CRC Press, [Macat Library](https://www.routledge.com/An-Analysis-of-Hanna-Batatus-The-Old-Social-Classes-and-the-Revolutionary-Movements-of-Iraq/Stahl/p/book/9781912128457).  
+- **2017**: Stahl, Dale J. *An Analysis of Ernest Gellner’s “Nations and Nationalism.”* CRC Press, [Macat Library](https://www.routledge.com/An-Analysis-of-Ernest-Gellners-Nations-and-Nationalism/Stahl/p/book/9781912127306?srsltid=AfmBOoplzW-DbeZg9gh8x8sVTXn1EywDARH8kVPQpPpksLblCgUD0b3A).  
 
 
 ## Selected Presentations  
