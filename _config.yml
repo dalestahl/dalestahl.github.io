@@ -104,11 +104,11 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
-analytics:
-  provider               : "google-gtag"
-  google:
-    tracking_id          : "G-SMQMJ5KBXX"
-    anonymize_ip         : false
+# analytics:
+#  provider               : "google-gtag"
+#  google:
+#    tracking_id          : "G-SMQMJ5KBXX"
+#    anonymize_ip         : false
 
 
 # Site Author
