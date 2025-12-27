@@ -104,7 +104,7 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
- analytics:
+analytics:
   provider               : "google-gtag"
   google:
     tracking_id          : "G-SMQMJ5KBXX"
