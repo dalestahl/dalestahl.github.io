@@ -20,7 +20,10 @@ header:
 excerpt: An Ecological History of the Tigris and Euphrates Rivers
 intro:
   - excerpt: "Listen to a [conversation](https://mediacentral.ucl.ac.uk/Player/42f51H9B) about the book with Dr. Mehiyar Kathem Al Sa'edi. Or, watch a [video discussion](https://youtu.be/_D_1dvHhfI0) of *Two Rivers Entangled* with Pravin Subramanian."
-  - excerpt: "*Two Rivers Entangled* is at its most engaging when it goes beyond the techno-ecological environments themselves to examine past imaginaries of the future, especially in Stahl’s reading of engineering reports and geological studies as subjective poetic projections alongside more traditionally accepted artistic productions of poems, films, paintings, and architecture. In this, he shows that just as the projects themselves, their environments, and the various riverine human and non-human actants entangled, so too did more strictly human methods of interaction and meaning-making. -Nicholas Ostrum, [*GlobalEurope*](https://globaleuropejournal.org/2026/06/june-2026/), June 2026
+  - excerpt: |
+      > *Two Rivers Entangled* is at its most engaging when it goes beyond the techno-ecological environments themselves to examine past imaginaries of the future, especially in Stahl’s reading of engineering reports and geological studies as subjective poetic projections alongside more traditionally accepted artistic productions of poems, films, paintings, and architecture. In this, he shows that just as the projects themselves, their environments, and the various riverine human and non-human actants entangled, so too did more strictly human methods of interaction and meaning-making.
+      >
+      > —Nicholas Ostrum, [*GlobalEurope*](https://globaleuropejournal.org/2026/06/june-2026/), June 2026.
   - excerpt: "**The first English-language history of the Tigris-Euphrates River Basin in the twentieth century, *Two Rivers Entangled* tells a new story of Iraq, Syria, and Turkey by analyzing the changing interactions between societies and ecologies.** The story unfolds across four chapters, each dedicated to a natural process and its entanglement with political aims, social factors, and economic plans."
 feature_row1:
   - image_path: /assets/images/tigris_flood.jpg
