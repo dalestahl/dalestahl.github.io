@@ -24,7 +24,7 @@ My book, ***Two Rivers Entangled: An Ecological History of the Tigris and Euphra
 
 ## Teaching
 
-As an [Associate Professor of History](https://clas.ucdenver.edu/history/dale-j-stahl) at the University of Colorado Denver. My [teaching](/teaching/) includes:
+As an [Associate Professor of History](https://clas.ucdenver.edu/history/dale-j-stahl) at the University of Colorado Denver, my [teaching](/teaching/) includes:
 - Middle East and Islamic history;
 - environmental and energy history;
 - the history of military occupation;

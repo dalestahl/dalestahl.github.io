@@ -33,7 +33,7 @@ Denver, CO 80204
 
 
 ## Books  
-- Forthcoming, Jan 2026: **Stahl, Dale J.** *Two Rivers Entangled: An Ecological History of the Tigris-Euphrates River Basin.* [Stanford University Press](https://www.sup.org/books/middle-east-studies/two-rivers-entangled).  
+- **2026**: Stahl, Dale J. *Two Rivers Entangled: An Ecological History of the Tigris-Euphrates River Basin.* [Stanford University Press](https://www.sup.org/books/middle-east-studies/two-rivers-entangled).  
 - **2008**: Hall, K., and Stahl, D. *An Argument for Documenting Casualties: Violence Against Iraqi Civilians 2006.* [RAND Corporation](https://www.rand.org/pubs/authors/s/stahl_dale.html).  
 - **2008**: Kaye, D. D., Wehrey, F., Grant, A. K., & Stahl, D. *More Freedom, Less Terror?: Liberalization and Political Violence in the Arab World.* RAND Corporation.  
 - **2008**: Oweidat, N., Benard, C., Stahl, D., Kildani, W., & O'Connell, E. *The Kefaya Movement: A Case Study of a Grassroots Reform Initiative.* RAND Corporation.  
@@ -73,6 +73,7 @@ Denver, CO 80204
 
 
 ## Leadership and Service  
+- **2026**: Director of Graduate Studies, Department of History, CU Denver
 - **2024**: Peer Reviewer, *Environment, Space, Place Journal*  
 - **2023–Present**: Editorial Committee, University Press of Colorado  
 - **2020–2022**: Organizer, History of Uncertainty Lecture Series, CU Denver  
