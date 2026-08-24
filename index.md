@@ -5,35 +5,30 @@ author_profile: true
 description: "Dale J. Stahl is an environmental historian of the modern Middle East. His work explores water, politics, technology, and ecological change."
 keywords: "Dale Stahl, environmental history, Middle East, water politics, Tigris and Euphrates, Iraq, Syria, Turkey, ecological history, history of technology, dam building"
 ---
-## Research
-
 I am an environmental historian of the modern Middle East. **My work centers on water**: how water shapes politics and societies, how people harness and use water, and how knowledge about water influences culture.
 
 I am particularly interested in:
-
 - the intersections of [nature, culture, and technology](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429429699-3/technopolitical-frontier-dale-stahl){:target=”_blank”};
-- the political and ecological consequences of damming rivers and other water infrastructure; and
+- the political and ecological consequences of [damming rivers](/book/) and other water infrastructure; and
 - different [ways of analyzing causal relationships](https://link.springer.com/article/10.1007/s12685-021-00278-4){:target=”_blank”} in the past.
 
 ## *Two Rivers Entangled*
 
 My book, ***Two Rivers Entangled: An Ecological History of the Tigris and Euphrates Rivers***, was published by Stanford University Press in January 2026.
 
-[*Two Rivers Entangled*](/book/) asserts the importance of ecological change in the twentieth-century political and social history of Iraq, Syria, and Turkey. The book shows how the natural world interacted with human endeavors to establish new states, to move and manage water, and to build dams. The lessons of this history are important for understanding present-day [climate change](https://blog.sup.org/history/a-crisis-older-than-climate-change/) effects and transboundary water management.
+[*Two Rivers Entangled*](/book/) places ecological change at the center of the twentieth-century political and social history of Iraq, Syria, and Turkey. It shows how the natural world interacted with human efforts to establish new states, move and manage water, and build dams. This history also offers a longer perspective on present-day [climate change](https://blog.sup.org/history/a-crisis-older-than-climate-change/) and transboundary water management.
 
-[Explore the book](/book/){: .btn .btn--primary}
-[Amazon](https://a.co/d/iaoyjCo){: .btn}
-[Bookshop](https://bookshop.org/p/books/two-rivers-entangled-an-ecological-history-of-the-tigris-and-euphrates-in-the-twentieth-century-dale-j-stahl/22380882){: .btn}
+**About the book:** [Read more](/book/) · [Stanford University Press](https://www.sup.org/books/middle-east-studies/two-rivers-entangled)
+
+**Where to buy:** [Amazon](https://a.co/d/iaoyjCo) · [Bookshop](https://bookshop.org/p/books/two-rivers-entangled-an-ecological-history-of-the-tigris-and-euphrates-in-the-twentieth-century-dale-j-stahl/22380882)
 
 **Conversations about the book:**
-
 - Listen to a [conversation with Dr. Mehiyar Kathem Al Sa'edi](https://mediacentral.ucl.ac.uk/Player/42f51H9B).
 - Watch a [video discussion with Pravin Subramanian](https://youtu.be/_D_1dvHhfI0).
 
 ## Teaching
 
 As an [Associate Professor of History](https://clas.ucdenver.edu/history/dale-j-stahl) at the University of Colorado Denver. My [teaching](/teaching/) includes:
-
 - Middle East and Islamic history;
 - environmental and energy history;
 - the history of military occupation;
