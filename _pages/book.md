@@ -11,14 +11,17 @@ header:
   actions:
     - label: "Stanford University Press"
       url: "https://www.sup.org/books/middle-east-studies/two-rivers-entangled"
-    - label: "Preorder from Amazon"
+    - label: "Order from Amazon"
       url: "https://a.co/d/iaoyjCo"
-    - label: "Preorder from Bookshop"
+    - label: "Order from Bookshop"
       url: "https://bookshop.org/p/books/two-rivers-entangled-an-ecological-history-of-the-tigris-and-euphrates-in-the-twentieth-century-dale-j-stahl/22380882"
+    - label: "Introduction"
+      url: "https://www.sup.org/books/middle-east-studies/two-rivers-entangled/excerpt/introduction"
 excerpt: An Ecological History of the Tigris and Euphrates Rivers
 intro:
-  - excerpt: "**The first English-language history of the Tigris-Euphrates River Basin in the twentieth century, *Two Rivers Entangled* tells a new story of Iraq, Syria, and Turkey by analyzing the changing interactions between societies and ecologies.**"
-  - excerpt: "The story unfolds across four chapters, each dedicated to a natural process and its entanglement with political aims, social factors, and economic plans."
+  - excerpt: "Listen to a [conversation](https://mediacentral.ucl.ac.uk/Player/42f51H9B) about the book with Dr. Mehiyar Kathem Al Sa'edi. Or, watch a [video discussion](https://youtu.be/_D_1dvHhfI0) of *Two Rivers Entangled* with Pravin Subramanian."
+  - excerpt: "*Two Rivers Entangled* is at its most engaging when it goes beyond the techno-ecological environments themselves to examine past imaginaries of the future, especially in Stahl’s reading of engineering reports and geological studies as subjective poetic projections alongside more traditionally accepted artistic productions of poems, films, paintings, and architecture. In this, he shows that just as the projects themselves, their environments, and the various riverine human and non-human actants entangled, so too did more strictly human methods of interaction and meaning-making. -Nicholas Ostrum, [*GlobalEurope*](https://globaleuropejournal.org/2026/06/june-2026/), June 2026
+  - excerpt: "**The first English-language history of the Tigris-Euphrates River Basin in the twentieth century, *Two Rivers Entangled* tells a new story of Iraq, Syria, and Turkey by analyzing the changing interactions between societies and ecologies.** The story unfolds across four chapters, each dedicated to a natural process and its entanglement with political aims, social factors, and economic plans."
 feature_row1:
   - image_path: /assets/images/tigris_flood.jpg
     alt: "image of a flooded railway station along the Tigris River"
