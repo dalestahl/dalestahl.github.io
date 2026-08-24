@@ -22,10 +22,6 @@ My book, ***Two Rivers Entangled: An Ecological History of the Tigris and Euphra
 
 **Where to buy:** [Amazon](https://a.co/d/iaoyjCo) · [Bookshop](https://bookshop.org/p/books/two-rivers-entangled-an-ecological-history-of-the-tigris-and-euphrates-in-the-twentieth-century-dale-j-stahl/22380882)
 
-**Conversations about the book:**
-- Listen to a [conversation with Dr. Mehiyar Kathem Al Sa'edi](https://mediacentral.ucl.ac.uk/Player/42f51H9B).
-- Watch a [video discussion with Pravin Subramanian](https://youtu.be/_D_1dvHhfI0).
-
 ## Teaching
 
 As an [Associate Professor of History](https://clas.ucdenver.edu/history/dale-j-stahl) at the University of Colorado Denver. My [teaching](/teaching/) includes:
